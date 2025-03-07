@@ -5,7 +5,9 @@
 - 📫 How to reach me IDK ... maybe I don't want to be bothered.
 - ⚡ Fun fact: 
     - APC9K is super smooth 🔫 
-    - Sig over Glock ANY DAY 
+    - Sig over Glock ANY DAY
+    - Software and Baddies are a match in heaven
+    - GOD is good, but money.
 
 <!---
 ElOrlis/ElOrlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
