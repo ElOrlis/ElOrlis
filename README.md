@@ -6,8 +6,8 @@
 - ⚡ Fun fact: 
     - APC9K is super smooth 🔫 
     - Sig over Glock ANY DAY
-    - Software and Baddies are a match in heaven
-    - GOD always, but money is good too.
+    - Lets make it clear... Promotional Driven Development
+    - TDD, BDD and anything with DD ... just a bunch of BS
 
 <!---
 ElOrlis/ElOrlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
