@@ -10,7 +10,7 @@
     - Lets make it clear... Promotional Driven Development
     - TDD, BDD and anything with DD ... just a bunch of BS
 
-https://m.youtube.com/watch?v=pOfU6bAxjFE&pp=ygUTc295IGFsZWdyZSBtYXJjYSBtcA%3D%3D
+[![Soy Alegre](https://images.app.goo.gl/HzB4FuJeZvqmPehm6)](https://m.youtube.com/watch?v=pOfU6bAxjFE&pp=ygUTc295IGFsZWdyZSBtYXJjYSBtcA%3D%3D)
 
 <!---
 ElOrlis/ElOrlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
