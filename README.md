@@ -4,7 +4,6 @@
 - 💻 I’m looking to collaborate on anything I give a shit about.
 - 📫 How to reach me IDK ... maybe I don't want to be bothered.
 - ⚡ Fun fact: 
-    - Be like Merrill?
     - APC9K is super smooth 🔫 
     - Sig over Glock ANY DAY
     - Lets make it clear... Promotional Driven Development
